@@ -29,6 +29,7 @@ I believe in **clean systems, clear communication, documented fixes**, and humor
 
 | Provider | Certification |
 |-------|---------------|
+| University of Maryland | Cybersecurity Course |
 | Google Cloud | Google Cloud Computing Foundations Certificate |
 | Google Cloud | Google Cloud Essentials |
 | Google Cloud | Introduction to Generative AI |
@@ -42,8 +43,7 @@ I believe in **clean systems, clear communication, documented fixes**, and humor
 | Great Learning Academy | Virtual Cloud Computing |
 | Great Learning Academy | Microsoft Azure Essentials |
 | Great Learning Academy | Advanced Cybersecurity – Threats & Governance |
-| University of Maryland | Cybersecurity Course |
-| Be10x | AI Workshop |
+
 
 ---
 
