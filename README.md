@@ -21,7 +21,7 @@ I believe in **clean systems, clear communication, documented fixes**, and humor
 | 🌐 Web | Web Development Support, SEO, Performance Optimization |
 | 📈 Digital | Digital Marketing Support, Analytics Assistance |
 | 🎬 Creative | Video Editing, Photo Editing, Content Optimization |
-| 🐍 Programming | Python (Essentials I & II) |
+| 🐍 Programming | Python, C, C++, Java, HTML |
 
 ---
 
@@ -30,20 +30,10 @@ I believe in **clean systems, clear communication, documented fixes**, and humor
 | Provider | Certification |
 |-------|---------------|
 | University of Maryland | Cybersecurity Course |
-| Google Cloud | Google Cloud Computing Foundations Certificate |
-| Google Cloud | Google Cloud Essentials |
-| Google Cloud | Introduction to Generative AI |
-| IBM | Information Technology Fundamentals |
-| IBM | Artificial Intelligence Fundamentals |
-| IBM | Cloud Computing Fundamentals |
-| Cisco Networking Academy | Operating System Basics |
-| Cisco Networking Academy | Networking Basics |
-| Cisco Networking Academy | Python Essentials 1 |
-| Cisco Networking Academy | Python Essentials 2 |
-| Great Learning Academy | Virtual Cloud Computing |
-| Great Learning Academy | Microsoft Azure Essentials |
-| Great Learning Academy | Advanced Cybersecurity – Threats & Governance |
-
+| Google Cloud | Google Cloud Computing Foundations Certificate, Google Cloud Essentials, Introduction to Generative AI |
+| IBM | Information Technology Fundamentals, Artificial Intelligence Fundamentals, Cloud Computing Fundamentals |
+| Cisco Networking Academy | Operating System Basics, Networking Basics, Python Essentials 1, Python Essentials 2 |
+| Great Learning Academy | Virtual Cloud Computing, Microsoft Azure Essentials, Advanced Cybersecurity – Threats & Governance |
 
 ---
 
@@ -66,4 +56,3 @@ I believe in **clean systems, clear communication, documented fixes**, and humor
 - 🔧 Fixing production (calmly)  
 - 📚 Documenting what future-me will forget  
 
-If you like **clean systems, smart automation, and tech with personality**, you’ll feel at home here.
