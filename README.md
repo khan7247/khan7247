@@ -1,4 +1,4 @@
-## 👋 Hi, I’m a Technologist
+## 👋 Hi there!
 
 I build, fix, automate, and occasionally question systems — across **cloud computing, IT infrastructure, automation, web, and security**.  
 I work with **Windows & Linux**, set up and manage **Cloud Service Provider (CSP) accounts**, and execute real-world tasks like deployments, access control, and system configuration (yes, including the boring-but-critical stuff).
